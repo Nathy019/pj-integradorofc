@@ -7,7 +7,7 @@
 body{
     display: flex;
     background-image: url(/imagens/fundopj.png);
-    position:fixed;
+    position: relative;
 }
 
 /* começo do cabecalho*/
