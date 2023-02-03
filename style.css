@@ -143,9 +143,8 @@ carrosel
     flex-direction:column-reverse;
     margin-left: 520px;
 }
- #titulo{
-  margin:20px;
-  padding:25px;
+ .titulo{
+  padding:20px;
   text-align: center;
   font-family: monospace;
   font-style: italic;
@@ -153,10 +152,10 @@ carrosel
   
  }
   .container {
-    position: relative;
-    padding: 5px;
+    position:relative;
     max-width:1000px;
-    margin:190px;
+    margin:250px;
+    margin-top: 150px;
     
 }
   
