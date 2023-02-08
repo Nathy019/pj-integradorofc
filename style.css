@@ -6,14 +6,16 @@
 }
 body{
     display: flex;
-    background-image: url(/imagens/fundopj.png);
+    background-image: url(/imagens/f2.jpg);
     position:fixed;
+     
+    
 }
 
 /* começo do cabecalho*/
 .logo{
     margin: 5px;
-    padding-left: 270px;
+    padding-left: 250px;
 }
 a{
     text-decoration: none;
@@ -59,8 +61,7 @@ h2{
     display: flex;
     display: inline-flex;
     padding: 30px;
-    margin-left: 72px;
-    margin: 100;
+    margin-left: 115px;
 }
 
 .pagamentos img{
@@ -138,11 +139,7 @@ h1{
 }
 
 carrosel
-.port{
-    display:flex;
-    flex-direction:column-reverse;
-    margin-left: 520px;
-}
+
  .titulo{
   padding:20px;
   text-align: center;
@@ -220,35 +217,23 @@ carrosel
 
   /*fim do carrosel*/
 
-  /*começo de materiais*/
+  /*começo de materiais /* começo biosegurança*/
+
   .materiais{
     display:flex;
     flex-direction:column-reverse;
-}
-.titulo2{
-  text-align: center;
-    margin-top: 30px;
-  font-family: monospace;
-}
-
-.grid-container2 {
-    display: grid;
-    grid-template-columns: repeat(2, -1fr);
-  }
-  .text2{
-    text-align:justify;
-    font-size: 30px;
-    margin-left: 800px;
-    margin-top: -525px;  
-  }
+}  
 #luva-img{
   margin-left: 150px;
   padding: 150px;
 }
- /* começo biosegurança*/
+
 .materiais{
     display:flex;
     flex-direction:column-reverse;
+}
+.logo2{
+  margin-right:330px;
 }
 .titulo2{
   text-align: center;
