@@ -54,7 +54,7 @@ h2{
     padding-left: 250px;
     font-family:monospace;
     font-style: italic;
-    font-size: 25px;
+    font-size: 30px;
 }   
 .redes-sociais ul li{
     display: flex;
@@ -113,7 +113,9 @@ iframe{
   margin-top: 30px;
   font-family: monospace;
 }
-
+.dani{
+  margin-left: 250px;
+}
 .grid-container {
     display: grid;
     grid-template-columns: repeat(2, -1fr);
@@ -150,9 +152,6 @@ h1 {
   margin: 1em 0;
   font-family:monospace;
   font-size: 40px;
-}
-.logo2{
-  margin-left: 320px;
 }
 
 .container {
@@ -237,11 +236,12 @@ https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp */
 }
 
 .logo2{
-  margin-right:330px;
-}
+  margin-right:330px;}
+
 .titulo2{
   text-align: center;
     margin-top: 30px;
+    margin-right: 250px;
   font-family: monospace;
 }
 
@@ -252,12 +252,20 @@ https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp */
   .text2{
     text-align:justify;
     font-size: 25px;
-    margin-left: 800px;
+    margin-left: 1000px;
     margin-top: -525px;  
   }
 .luva-img{
   display:grid;
   margin-left: 150px;
   padding: 150px;
+  margin-top: -50px;
 }
- 
+.bio{
+  margin-top: -50px;
+}
+ #contato{
+  background: rgb(155, 148, 148);
+  margin-left: 120px;
+
+ }
