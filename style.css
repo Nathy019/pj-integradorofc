@@ -175,9 +175,9 @@ h1 {
   font-size: 20px;
   line-height: 250px;
   width: 40px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   transition: all 600ms ease-in-out;
-  background: linear-gradient(to left, transparent 0%, black 200%);
+  background: linear-gradient(to left, transparent 0%, rgb(255, 255, 255));
   opacity: 0.1;
   cursor: pointer;
   border: none;
@@ -192,7 +192,7 @@ h1 {
   right: 0;
   left: auto;
   text-align: right;
-  background: linear-gradient(to right, transparent 0%, black 200%);
+  background: linear-gradient(to right, transparent 0%, rgb(255, 255, 255));
 }
 
 .gallery {
@@ -269,3 +269,44 @@ https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp */
   margin-left: 120px;
 
  }
+/*comeco contato*/
+.subtitulo{
+  color: #fff;
+}
+ form {
+  max-width: 500px;
+  margin: 150px auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input, textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 13px;
+  font-size: 16px;
+  
+}
+
+button[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 13px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #0069d9;
+}
