@@ -269,7 +269,7 @@ h1 {
 }
  form {
   max-width: 500px;
-  margin: 150px auto;
+  margin: 15px auto;
 }
 
 label {
@@ -278,7 +278,7 @@ label {
   font-weight: bold;
 }
 
-input, textarea {
+input, select,textarea {
   display: block;
   width: 100%;
   margin-bottom: 10px;
@@ -287,6 +287,9 @@ input, textarea {
   border-radius: 13px;
   font-size: 16px;
   
+}
+select option[disabled]:first-child {
+  display: none;
 }
 
 button[type="submit"] {
