@@ -9,7 +9,7 @@ html{
 }
 body{
     display:block;
-    background-image: url(/imagens/fogoamg2.jpg) ;
+   background:rgba(255, 0, 221, 0.753);
     background-repeat: no-repeat;
     background-position: center center;
     
