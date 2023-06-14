@@ -9,7 +9,7 @@
     <title>Daanihel</title>
 </head>
 <div class="titulo2" >
-  <a href="index.html"><img class="dani" src="/imagens/logo.png"></a>
+  <a href="index.php"><img class="dani" src="/imagens/logo.png"></a>
   <h2>Portfólio</h2>
  </div>
 

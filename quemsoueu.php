@@ -13,7 +13,7 @@
 <main class="historia">
     <div class="grid-container">
       <div class="titulo">
-        <div><a href="index.html"><img class = "dani"src="/imagens/logo.png"></a></div>
+        <div><a href="index.php"><img class = "dani"src="/imagens/logo.png"></a></div>
 
         <h2>Minha história</h2>
       </div>

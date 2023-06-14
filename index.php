@@ -13,14 +13,14 @@
     <header class="menu-principal">
     <nav class="menu">
         <ul>
-            <li><a href="quemsoueu.html" class="ativo" >Quem sou eu</a></li>
-            <li><a href="portfolio.html" class="ativo" >Portfólio</a></li>
-            <li><a href="materiais.html" class="ativo" >Materiais</a></li>
-            <li><a href="bioseguranca.html" class="ativo">Biosegurança</a></li>
-            <li><a href="contato.html" class="ativo" id="contato">Contato</a></li>
+            <li><a href="quemsoueu.php" class="ativo" >Quem sou eu</a></li>
+            <li><a href="portfolio.php" class="ativo" >Portfólio</a></li>
+            <li><a href="materiais.php" class="ativo" >Materiais</a></li>
+            <li><a href="bioseguranca.php" class="ativo">Biosegurança</a></li>
+            <li><a href="contato.php" class="ativo" id="contato">Contato</a></li>
         </ul>
 <div class="logo">
-  <a href="index.html"><img src="/imagens/logo.png"></a>
+  <a href="index.php"><img src="/imagens/logo.png"></a>
 
 </div>
 <div>

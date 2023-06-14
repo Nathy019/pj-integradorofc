@@ -12,7 +12,7 @@
         <div class="grid-container2"> 
           <div class="titulo2">
             <div>
-             <a href="index.html"><img class="dani" src="/imagens/logo.png"></a>
+             <a href="index.php"><img class="dani" src="/imagens/logo.png"></a>
             </div>
             <h2>Biosegurança</h2>
           </div>
